@@ -6,7 +6,7 @@ This document attempts to form a solid set of rules and guidelines to ensure a c
 
 ## Specification
 
-See the [SHD API Guidelines Specifications](./API-GUIDELINES.md)
+See the [SHD API Guidelines Specifications](./docs/API-GUIDELINES.md)
 
 ## Changelog
 
