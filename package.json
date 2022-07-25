@@ -1,0 +1,20 @@
+{
+  "name": "api-guidelines",
+  "version": "1.0.0",
+  "description": "SHD API Guidelines",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiohyperdrive/api-guidelines.git"
+  },
+  "author": "tom.opdebeeck@studiohyperdrive.be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studiohyperdrive/api-guidelines/issues"
+  },
+  "homepage": "https://github.com/studiohyperdrive/api-guidelines#readme",
+  "devDependencies": {
+    "@studiohyperdrive/commitlint-config": "^1.0.0",
+    "commitlint": "^17.0.3",
+    "husky": "^8.0.1"
+  }
+}

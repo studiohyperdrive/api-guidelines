@@ -1,0 +1,5 @@
+{
+	"extends": [
+		"@studiohyperdrive/commitlint-config"
+	]
+}
